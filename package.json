@@ -1,20 +1,19 @@
 {
-    "name": "monokai-st+",
-    "displayName": "Monokai ST+",
+    "name": "monokai-st-plus",
+    "displayName": "Monokai ST Plus",
     "description": "Fork Monokai ST3 which realize syntax highlighting from ST3",
-    "version": "0.0.3",
-    "license": "SEE LICENSE IN LICENSE.txt",
-    "publisher": "FrankValdez",
+    "version": "0.0.1",
+    "publisher": "Frank Valdez",
     "bugs": {
-        "url": "https://github.com/fvaldez421/VScode-SublimeBetter"
+        "url": "https://github.com/fvaldez421/VScode-STPlus"
     },
-    "homepage": "https://github.com/fvaldez421/VScode-SublimeBetter",
+    "homepage": "https://github.com/fvaldez421/VScode-STPlus",
     "engines": {
         "vscode": "^1.14.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/fvaldez421/VScode-SublimeBetter"
+        "url": "https://github.com/fvaldez421/VScode-STPlus"
     },
     "author": {
         "name": "Frank Valdez"
