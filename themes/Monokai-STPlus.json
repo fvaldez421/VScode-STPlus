@@ -1,4 +1,6 @@
 {
+	"$schema": "vscode://schemas/color-theme",
+	"name": "Monokai ST Plus",
 	"type": "dark",
 	"colors": {
 		"dropdown.background": "#414339",
@@ -18,7 +20,7 @@
     "editor.wordHighlightBackground": "#4a4a7680",
     "editor.wordHighlightStrongBackground": "#6a6a9680",
 		"editor.lineHighlightBackground": "#3e3d32",
-		"editorLineNumber.activeForeground": "#c2c2bf",
+		"editorLineNumber.activeForeground": "#bebe70",
 		"editorCursor.foreground": "#f8f8f0",
 		"editorWhitespace.foreground": "#464741",
 		"editorIndentGuide.background": "#464741",
@@ -91,19 +93,12 @@
 	},
 	"tokenColors": [
 		{
-			"settings": {
-				"background": "#272822",
-				"foreground": "#F8F8F2"
-			}
-		},
-		{
 			"scope": [
 				"meta.embedded",
 				"meta.brace.round",
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"background": "#272822",
 				"foreground": "#F8F8F2"
 			}
 		},
@@ -281,7 +276,6 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#F92672",
 				"fontStyle": "",
 				"foreground": "#F8F8F0"
 			}
@@ -290,7 +284,6 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#AE81FF",
 				"foreground": "#F8F8F0"
 			}
 		},

@@ -36,7 +36,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Monokai ST+",
+                "label": "Monokai ST Plus",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai-STPlus.json"
             }
